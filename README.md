@@ -32,7 +32,7 @@ Reconhecendo a falha da defesa inicial, o Sentinela foi aprimorado para realizar
 
 Esta evolução demonstra o princípio de que, na era da "Guerra de Algoritmos", a defesa precisa ser tão inteligente e adaptável quanto o ataque, utilizando **Big Data** para identificar padrões anômalos que um humano não conseguiria.
 
-## Tecnologias Utilizadas
+## Stack Tecnológica
 
 *   **Python:** Linguagem principal para o desenvolvimento do algoritmo.
 *   **`collections.defaultdict`:** Para armazenar logs de acesso em memória.
